@@ -1,2 +1,2 @@
-# Sistema-finan-as
+# Sistema-finanças
 Sistema de finanças utilizando React js
